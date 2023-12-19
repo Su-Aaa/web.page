@@ -1,0 +1,28 @@
+header
+{background-image: url(bg.png);
+ background-size: cover;
+ background-position: center-top;
+ background-attachment: fixed;}
+
+
+/* 네비게이션 영역 */
+.nav-link:hover,
+.nav-link.active {
+    color: #000000 !important;
+}
+
+/*섹션 영역*/
+#about-us
+
+/*폰트*/
+body 
+{font-family: 'Bebas Neue', sans-serif;}
+h1,h2,h3,h4
+{font-family: 'Paytone One', sans-serif;}
+
+/* SNS 영역 */
+#contact {
+    background-image: url(images/);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;}
